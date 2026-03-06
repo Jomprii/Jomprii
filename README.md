@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jomprii&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jomprii&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧠 Memes for you
-<img src="https://random-memer.herokuapp.com/" width="400">
+### 😂 Random Dev Joke
+  https://v2.jokeapi.dev/joke/Programming?type=single
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/jompers) 
