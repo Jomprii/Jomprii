@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Jompers<br><br>💻 I turn coffee ☕ into code  <br>📱 Building apps with Next.js, React, React Native, and Laravel<br><br>## Fun fact: I debug faster after 2am 🌙 <br><br>
+## 👋 Hi, I'm Jompers<br><br>💻 I turn coffee ☕ into code  <br>📱 Building apps with Next.js, React, React Native, and Laravel<br><br>I debug faster after 2am 🌙 <br><br>
 
 
 ## 🌐 Socials:
