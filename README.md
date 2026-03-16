@@ -1,9 +1,10 @@
 <div align="center">
 
 # **👋 Hi, I'm Jompers**
+### 💼 Open for commissions and collaborations.
 
 ### I am a Deveoper 💻 Turning ideas💡into code 🛠️
-### 💼 Open for commissions and collaborations.
+
 
 ![](https://komarev.com/ghpvc/?username=Jomprii&label=Profile%20Views&color=blue&style=for-the-badge)
 
