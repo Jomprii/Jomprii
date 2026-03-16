@@ -5,9 +5,7 @@
 ### I am a Deveoper 💻 Turning ideas💡into code 🛠️
 
 ![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
-
-
-
+</div>
 ---
 
 ## I turn coffee ☕ into code <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>🔭 I am currently working on MCenter and Maayo Shipping<br><br>
@@ -81,8 +79,6 @@
 
 ---
 
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Jomprii&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -97,6 +93,5 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jompers)
 
-  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
