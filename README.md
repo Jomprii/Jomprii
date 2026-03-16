@@ -1,7 +1,7 @@
 <div align="center">
 
 # **👋 Hi, I'm Jompers**
-### 💼 Open for commissions and collaborations.
+💼 Open for commissions and collaborations.
 
 ### I am a Deveoper 💻 Turning ideas💡into code 🛠️
 
