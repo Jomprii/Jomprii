@@ -4,7 +4,7 @@
 
 ### I am a Deveoper 💻 Turning ideas💡into code 🛠️
 
-![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Jomprii&label=Profile%20Views&color=blue&style=for-the-badge)
 
 </div>
 
