@@ -16,7 +16,7 @@
 
 ---
 
-### 🌐 **Socials:**
+# 🌐 **Socials:**
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/junefree.yamson.7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_jompri/?hl=en)
@@ -83,7 +83,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Jomprii&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jomprii&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jomprii&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -91,9 +90,14 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=watermelon)
 
+<div align="center">
+  
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jompers)
+  
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
