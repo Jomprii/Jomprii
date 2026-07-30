@@ -6,8 +6,6 @@
 ### 💼 Open for commissions and collaborations.
 
 
-![](https://komarev.com/ghpvc/?username=Jomprii&label=Profile%20Views&color=blue&style=for-the-badge)
-
 </div>
 
 ---
@@ -81,11 +79,3 @@
 ### 😂 Random Dev Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=watermelon)
-
-<div align="center">
-  
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jompers)
-  
-</div>
