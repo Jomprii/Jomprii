@@ -2,7 +2,7 @@
 
 # **👋 Hi, I'm Jompers**
 
-### I am a Deveoper 💻 Turning ideas💡into code 🛠️
+### A Deveoper 💻 Turning ideas💡into code 🛠️
 ### 💼 Open for commissions and collaborations.
 
 
@@ -10,7 +10,7 @@
 
 ---
 
-## I turn coffee ☕ into code <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>🔭 I am currently working on MCenter and Maayo Shipping<br><br>
+## I turn coffee ☕ into code <br>Building apps 📱 with Next.js, React, React Native, and Laravel<br>🔭 <br><br>
 
 ### I debug faster after 2am 🌙
 
